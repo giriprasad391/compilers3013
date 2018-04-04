@@ -1,0 +1,18 @@
+
+	int a,b,c;
+	float d[10][20],e[10][20];
+	if ( a < d[a][2])
+	{
+		a=b+c;
+		while( a<b )
+		{
+			c=c+8;
+		}
+	}
+	else
+	{
+		int x,y;
+		x=x+y;
+	}
+	a=e[4][3]*c;
+	a=0;

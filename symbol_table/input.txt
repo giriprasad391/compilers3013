@@ -1,0 +1,8 @@
+{
+   int f=100;
+   {
+     float a;
+     int g=200;
+   }
+   char b;
+}

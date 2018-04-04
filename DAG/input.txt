@@ -1,0 +1,13 @@
+{
+	int a = 5, b = 10;
+	if(a<b){
+		b=a;
+	}else{
+		a=b;
+	}
+	int y;
+	if(y<a){
+		y = y+1;
+	}
+	y = y+5;
+}
